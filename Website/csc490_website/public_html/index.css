@@ -1,0 +1,100 @@
+body {
+    background-image: url("./background.jpg");
+    color: #3c4677;
+}
+
+p{
+	background-color: transparent;
+}
+
+#intro {
+	text-align: center;
+    border: 2px solid #3c4677;
+}
+
+#mephoto{
+	text-align: left;
+	display: block;
+	float: left;
+	width: 380px;
+	height: 380px;
+}
+
+#basicInfo{
+	float: center;
+	border: 2px solid #3c4677;
+}
+
+#credits{
+	text-align: right;
+	font-family: "Comic Sans MS", cursive;
+	font-size: 10px;
+	clear: left;
+}
+
+#links{
+	clear: left;
+	border: 2px solid #3c4677;
+}
+
+#present{
+	text-align: center;
+	display:none;
+	padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#socialmedia{
+	padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+#mybutton{
+	color: #3c4677;
+	text-align: center;
+	font-family: "Comic Sans MS";
+	width: 100px;
+	height: 50px;
+	font-size : 15px;"
+	background-color: white;
+}
+
+a{
+    text-decoration: none;
+    color:#ab3456;
+}
+
+a:visited{
+    color:#ab3416;
+}
+
+a:hover{
+    text-decoration: underline;
+    color:#2d74b2;
+}
+
+a:active{
+    color:darkblue;
+    font-style: italic;
+}
+
+::-webkit-scrollbar {
+    width: 17px;
+    background-color: #F5F5F5;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+    background-color: #F5F5F5;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+    background-color: #555;
+}
