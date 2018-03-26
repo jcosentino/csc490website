@@ -1,1 +1,2 @@
 # csc490website
+This is the website I made in the Spring semester of 2017. I made it in a couple of hours. It was only meant to list some of my experience. The website was to be made from scratch using HTML, CSS, and JS. Bootstrap was not permitted.
